@@ -1,0 +1,69 @@
+body{ 
+background:black;
+color:white; 
+font-family: arial;
+}
+
+p{
+	text-align: center;
+}
+
+#title{
+	margin-top: 0%;
+	text-align: center;
+	color: pink;
+	font-family: arial;
+}
+.parallax{
+	background-attachment:fixed;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px; 
+
+}
+
+#parallax1{
+	background-image: url("../img/pueblo.jpg");
+	
+}
+
+#parallax2{
+	background-image: url('../img/pueblo.jpg');
+
+}
+
+#parallax3{
+	background-image: url("../img/p3.jpg");
+}
+
+#parallax4{
+	background-image: url("../img/pueblo.jpg");
+}
+
+#parallax5{
+	background-image: url("../img/pueblo.jpg");
+}
+
+#parallax6{
+	background-image: url("../img/pueblo.jpg");
+
+}
+#parallax7{
+	background-image: url("../img/p7.jpg");
+
+}
+#parallax8{
+	background-image: url("../img/pueblo.jpg");
+
+}
+#parallax9{
+	background-image: url("../img/pueblo.jpg");
+
+}
+
+
+/* 
+Parallax tutorial:
+https://www.w3schools.com/howto/howto_css_parallax.asp
+*/
