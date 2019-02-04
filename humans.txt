@@ -3,7 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+Shoutout to the best team.
+
+Nate Bennet - wrote paragraphs 1 & 5, and the readme
+Jen Mah - wrote paragraphs 2 & 6, and the 404 page
+Phil Garcia - wrote paragraphs 3 & 7, created the icons/favicon
+Megan Akiba - wrote paragraphs 4 & 8, and the humans.txt
+
+Every team member contributed to the CSS for this project.
+
+Creative Web Dev Tools
+Spring 2019
 
 # THANKS
 
