@@ -3,10 +3,14 @@ background:black;
 color:white; 
 font-family: arial;
 padding: 2% 5% 2% 5%;
+
 }
 
 p{
 	text-align: center;
+	padding: 2% 20% 2% 20%;
+	font-size: 150%;
+	font-family: 'Amatic SC', cursive;
 }
 
 #title{
@@ -64,10 +68,7 @@ p{
 	background-image: url("../img/gator.jpg");
 
 }
-p{
-	padding: 2% 20% 2% 20%;
-	font-size: 150%;
-}
+
 
 /* 
 Parallax tutorial:
