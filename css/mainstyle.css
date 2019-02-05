@@ -64,7 +64,10 @@ p{
 	background-image: url("../img/gator.jpg");
 
 }
-
+p{
+	padding: 2% 20% 2% 20%;
+	font-size: 150%;
+}
 
 /* 
 Parallax tutorial:
