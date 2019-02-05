@@ -5,7 +5,7 @@
 
 Shoutout to the best team.
 
-Nate Bennet - wrote paragraphs 1 & 5, and the readme
+Nate Bennett - wrote paragraphs 1 & 5, and the readme
 Jen Mah - wrote paragraphs 2 & 6, and the 404 page
 Phil Garcia - wrote paragraphs 3 & 7, created the icons/favicon
 Megan Akiba - wrote paragraphs 4 & 8, and the humans.txt

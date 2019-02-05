@@ -2,6 +2,7 @@ body{
 background:black;
 color:white; 
 font-family: arial;
+padding: 2% 5% 2% 5%;
 }
 
 p{
@@ -11,8 +12,10 @@ p{
 #title{
 	margin-top: 0%;
 	text-align: center;
-	color: pink;
+	color: orange;
 	font-family: arial;
+	border-bottom: 2px solid orange;
+	padding-bottom: 5px;
 }
 .parallax{
 	background-attachment:fixed;
@@ -29,7 +32,7 @@ p{
 }
 
 #parallax2{
-	background-image: url('../img/pueblo.jpg');
+	background-image: url('../img/toyota.jpg');
 
 }
 
@@ -38,15 +41,15 @@ p{
 }
 
 #parallax4{
-	background-image: url("../img/pueblo.jpg");
+	background-image: url("../img/alligator.jpg");
 }
 
 #parallax5{
-	background-image: url("../img/pueblo.jpg");
+	background-image: url("../img/bear.jpg");
 }
 
 #parallax6{
-	background-image: url("../img/pueblo.jpg");
+	background-image: url("../img/alligator2.jpg");
 
 }
 #parallax7{
@@ -54,11 +57,11 @@ p{
 
 }
 #parallax8{
-	background-image: url("../img/pueblo.jpg");
+	background-image: url("../img/juul.jpg");
 
 }
 #parallax9{
-	background-image: url("../img/pueblo.jpg");
+	background-image: url("../img/gator.jpg");
 
 }
 
