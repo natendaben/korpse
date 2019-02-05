@@ -10,7 +10,7 @@ p{
 	text-align: center;
 	padding: 2% 20% 2% 20%;
 	font-size: 150%;
-	font-family: 'Amatic SC', cursive;
+
 }
 
 #title{
@@ -20,6 +20,8 @@ p{
 	font-family: arial;
 	border-bottom: 2px solid orange;
 	padding-bottom: 5px;
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
 }
 .parallax{
 	background-attachment:fixed;
